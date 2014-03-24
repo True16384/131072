@@ -1,5 +1,5 @@
 # 32768
-A small clone of [2048], based on [Gabriele Cirulli's 2048](git.io/2048) (also a clone).
+A small clone of [2048], based on [Gabriele Cirulli's 2048](http://git.io/2048) (also a clone).
 
 Made just for fun. [Play it here!](http://gabrielecirulli.github.io/2048/)
 
